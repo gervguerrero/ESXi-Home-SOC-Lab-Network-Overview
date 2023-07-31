@@ -3,9 +3,9 @@ ESXi Home SOC Lab/Mock Network Overview
 
 ## Introduction/Goals
 
-This project showcases my Home ESXi mock enterprise network and SOC Lab built on physical servers. The goal is to practice Network Engineering, Administration, Cybersecurity, and Ethical Hacking/Penetration Testing all in one lab. This is as on-going project that will be long term as in the future I will build, experiment, attack, and defend assets in a mock enterprise network that uses internet connectivity.
+This project showcases my Home ESXi mock enterprise network and SOC Lab built on physical servers. The goal is to practice Network Engineering, Administration, Cybersecurity, and Ethical Hacking/Penetration Testing all in one lab. This is an on-going project that will be long term as in the future I will build, experiment, attack, and defend assets in a mock enterprise network that uses internet connectivity.
 
-At a high level overview, here is what I have currently built: 
+At a high level overview, here is what I currently have built: 
 
 **Mock Enterprise Network**
 - Windows Server 2019 Active Directory Server hosting ARK.local domain
