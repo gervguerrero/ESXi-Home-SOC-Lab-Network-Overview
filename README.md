@@ -40,7 +40,8 @@ At a high level overview, here is what I currently have built:
   
 ### Administration
 - Joined 2 Windows 10 Pro workstations to ARK.local domain
-- Created Users and set user privilege Group Policy Object (GPO) rules for 8 Users
+- Created users and set user privilege Group Policy Object (GPO) rules for 8 Users
+- Applied GPO rules for User preference and display settings
   
 ### Cybersecurity
 - Ingested and Analyzed network traffic for LLMNR/NBT-NS Poisoning Attack (Link Local Multi Namecast Resolution / Netbios Name Service Poisoning)
@@ -58,9 +59,11 @@ At a high level overview, here is what I currently have built:
 - Creating a SQL Database server
   
 ### Administration
+- Set GPO rules to baseline workstations with default authorized software
 - Set GPO rules to block and detect installing unauthorized software
 - Set GPO rules to block and detect unauthorized USB storage device usage
 - Set GPO rules to block and detect requests to unauthorized websites
+
   
 ### Cybersecurity
 - Installing PFsense Firewall
