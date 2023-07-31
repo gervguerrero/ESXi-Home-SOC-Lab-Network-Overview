@@ -43,7 +43,45 @@ At a high level overview, here is what I have currently built:
 - Created Users and set user privilege Group Policy Object (GPO) rules for 8 Users
   
 ### Cybersecurity
-- Ingested and Analyzed network traffic for LLMNR/NBT-NS Poisoning Attack
+- Ingested and Analyzed network traffic for LLMNR/NBT-NS Poisoning Attack (Link Local Multi Namecast Resolution / Netbios Name Service Poisoning)
 
 ### Ethical Hacking/Penetration Testing 
-- Conducted internal LLMNR/NBT-NS Poisoning Attack to workstation in ARK.local domain
+- Conducted internal LLMNR/NBT-NS Poisoning Attack to workstation in ARK.local domain (Link Local Multi Namecast Resolution / Netbios Name Service Poisoning)
+
+
+## Future Goals:
+
+### Network Engineering
+- Create an Vulnerable Ubuntu Web Server on the Network
+- Add 1 or 2 more Windows 10 Pro Workstations
+- Installing PFsense Firewall 
+- Creating a SQL Database server
+  
+### Administration
+- Set GPO rules to block and detect installing unauthorized software
+- Set GPO rules to block and detect unauthorized USB storage device usage
+- Set GPO rules to block and detect requests to unauthorized websites
+  
+### Cybersecurity
+- Installing PFsense Firewall
+- Creating a OpenVAS/Greenbone Vulnerability Scanning Server
+- Creating a Velociraptor Server
+- Ingesting Windows Event Logs into Security Onion SIEM
+- Deploying Sysmon Logging on network assets
+- Ingesting Sysmon Logs into Security Onion SIEM
+- Creating/Testing Temporary Splunk Server as another SIEM
+- Test custom Suricata/Yara Rules in Security Onion 
+- Create a Malware Analysis Server
+- Detect and Analyze attacks launched from Kali VM
+  
+### Ethical Hacking/Penetration Testing 
+- Nmap scan network
+- Exploit vulnerable assets on network
+- Launch Ransomware on Windows workstation
+- Perform keberoasting/SMB relaying on network
+- Create backdoor persistence in Registry Keys
+- Create fake website hosting malicious scripts
+- Create Phishing Email with payload in attachments
+- Use a Redirector to perform malicious actions
+- Launch a Keylogger on Windows workstation
+- Perform SSL Stripping Attack 
