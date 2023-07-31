@@ -69,7 +69,7 @@ At a high level overview, here is what I currently have built:
 ### Cybersecurity
 - Installing PFsense Firewall
 - Creating a OpenVAS/Greenbone Vulnerability Scanning Server
-- Creating a Velociraptor Server
+- Creating a Velociraptor Endpoint Detection & Response Server
 - Ingesting Windows Event Logs into Security Onion SIEM
 - Deploying Sysmon Logging on network assets
 - Ingesting Sysmon Logs into Security Onion SIEM
