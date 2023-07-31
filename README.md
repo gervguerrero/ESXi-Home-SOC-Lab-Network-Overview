@@ -18,11 +18,12 @@ At a high level overview, here is what I currently have built:
 - Out of Band Security Onion instance passively collecting network traffic from the SPAN/Mirror port 
 
 **Ethical Hacking/Penetration Testing Tools:**
-- Kali Linux which sits internal to the 192.168.0.0/24 network, but is currently not joined to the domain.
+- Kali Linux which sits internal to the 192.168.10.0/24 network, but is currently not joined to the domain.
 
 ## July 7 2023 Build 
 
-![V2-01222021-CYBER-INTERFACE-HD](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview/assets/140366635/f8ac453a-692e-44a9-9a44-2fef4073d9ac)
+![V2-01222021-CYBER-INTERFACE-HD](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview/assets/140366635/b35c2f5e-66a0-4d7c-9457-5fd946b509f8)
+
 
 
 ## Overall Accomplishments:
