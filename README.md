@@ -22,7 +22,8 @@ At a high level overview, here is what I currently have built:
 
 ## July 7 2023 Build 
 
-![V2-01222021-CYBER-INTERFACE-HD](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview/assets/140366635/b35c2f5e-66a0-4d7c-9457-5fd946b509f8)
+![V2-01222021-CYBER-INTERFACE-HD](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview/assets/140366635/f006a8bb-ebc6-475c-be7a-9306522348ce)
+
 
 
 
