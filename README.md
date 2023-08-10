@@ -39,11 +39,14 @@ At a high level overview, here is what I currently have built:
 - Configured internal and internet connectivity in network
 - Configured Security Onion to ingest from physical SPAN/Mirror Port
 - Configured Kali Linux internal to mock network with internet connectivity
+- Configured 1 Ubuntu Desktop Virtual Machine with internet connectivity in 192.168.0.0/24 Server space
   
 ### Administration
 - Joined 2 Windows 10 Pro workstations to ARK.local domain
 - Created users and set user privilege Group Policy Object (GPO) rules for 8 Users
 - Applied GPO rules for User preference and display settings
+- Installed Greenbone/OpenVAS on Kali Linux (Had some APT update errors in the process)
+- Converted Ubuntu Desktop to Server and installed MySQL application through CLI. 
   
 ### Cybersecurity
 - Ingested and Analyzed network traffic for LLMNR/NBT-NS Poisoning Attack (Link Local Multi Namecast Resolution / Netbios Name Service Poisoning)
@@ -69,7 +72,6 @@ At a high level overview, here is what I currently have built:
   
 ### Cybersecurity
 - Installing PFsense Firewall
-- Creating a OpenVAS/Greenbone Vulnerability Scanning Server
 - Creating a Velociraptor Endpoint Detection & Response Server
 - Ingesting Windows Event Logs into Security Onion SIEM
 - Deploying Sysmon Logging on network assets
